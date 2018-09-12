@@ -3,22 +3,22 @@
 
 -----------------------------------------------------------------------------------------------
 
-##### Skills
+## Skills
 - **Primary:** Java
 - **Secondary:** C++, C#, Visual Basic
 - **Foreign:** Native Vietnamese speaker
 
-##### Team Orientated
+## Team Orientated
 - Excellent oral interpersonal communication skills.
 - Creates rapport in a work enviroment that builds teamwork 
 - Thrive on challenging tasks. 
 - Highly organized and dedicated with positive attitude.
 
-##### Technical
+## Technical
 - Proficient with Photoshop, Illustrator, Windows, Apple, Linux, Android 
 - Excellent in learning new operating platforms and electronic software's. 
 
-##### Work Experience
+## Work Experience
 - **Gamestop - Assistant Store Manager - Oct 2006 - May 2012**
     - Responsible for hiring and on-board processing for new employees. 
     - Coached and motivated employees and colleague to maximize store performance.
@@ -37,4 +37,4 @@
     - Maintained a company vehicle with a clean driving record.
     - Perform multiple assignments under pressure and consistently meet deadlines.
  
- ##### Homework Questions
+ ## Homework Questions
