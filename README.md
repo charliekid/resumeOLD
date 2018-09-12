@@ -1,5 +1,5 @@
 # Skills
-- **Primary:** Java
+- Primary: Java
 - **Secondary:** C++, C#, Visual Basic
 - **Foreign:** Native Vietnamese speaker
 
