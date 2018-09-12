@@ -1,5 +1,5 @@
 ![Name Format](name-header.png) 
-## Contact Info: ![email-icon](mail-contact-icon.png) [Email](mailto:charliekid19@gmail.com)
+#### Contact Info: ![email-icon](mail-contact-icon.png) [Email](mailto:charliekid19@gmail.com)
 
 # Skills
 - Primary: Java
