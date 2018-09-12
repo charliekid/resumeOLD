@@ -1,5 +1,6 @@
 ![Name Format](name-header-long.png) 
 ##### Contact Info: ![email-icon](mail-contact-icon.png) [Email](mailto:charliekid19@gmail.com)
+###### Download a copy of my [resume](https://drive.google.com/file/d/1ye7Y4Bu3_gTVkSv5zEeOcPY5uw9KgQ2r/view?usp=sharing)
 
 -----------------------------------------------------------------------------------------------
 # Skills
