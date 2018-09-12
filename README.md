@@ -1,4 +1,4 @@
-![Name Format](name-header.png) 
+![Name Format](name-header-long.png) 
 #### Contact Info: ![email-icon](mail-contact-icon.png) [Email](mailto:charliekid19@gmail.com)
 
 # Skills
