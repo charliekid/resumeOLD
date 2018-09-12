@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Skills
+- **Primary:** Java
+- **Secondary:** C++, C#, Visual Basic
+- **Foreign:** Native Vietnamese speaker
 
-You can use the [editor on GitHub](https://github.com/charliekid/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Team Orientated
+- Excellent oral interpersonal communication skills.
+- Creates rapport in a work enviroment that builds teamwork 
+- Thrive on challenging tasks. 
+- Highly organized and dedicated with positive attitude.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Technical
+- Proficient with Photoshop, Illustrator, Windows, Apple, Linux, Android 
+- Excellent in learning new operating platforms and electronic software's. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charliekid/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Work Experience
+- **Gamestop | Assistant Store Manager | Oct 2006 - May 2012**
+    - Responsible for hiring and on-board processing for new employees. 
+    - Coached and motivated employees and colleague to maximize store performance.
+- **Sprint | Sales Consultant | June 2012 - Sept 2013**
+    - Ensured that sales were made daily to each end of the month goals. 
+    - Able to confront dissatisfied customers, settle them, and resolve.
+- **MarketStar | Google Specialist | Sept 2013 - Jan 2014**
+    - Educated consumers on products and assess if the product would benefit the consumer.
+    - Endorse brand awareness and created hype to increase sales
+    - Built trust between consumers to create a unique customer experience.
+    - Trained employees on product knowledge and brand benefits.
+- **Coinstar | Field Technician | Feb 2014 - May 2017**
+    - Responsible for maintaining kiosks in an assigned territory. 
+    - Used varies tools to maintenance, troubleshoot, and fix kiosks. 
+    - Communicated daily with a small team while working remotely.
+    - Maintained a company vehicle with a clean driving record.
+    - Perform multiple assignments under pressure and consistently meet deadlines.
+ 
+ # Homework Questions
